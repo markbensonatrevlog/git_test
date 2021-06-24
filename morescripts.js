@@ -1,0 +1,3 @@
+function doTheRest() {
+    // everyting else
+}

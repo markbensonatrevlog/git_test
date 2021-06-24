@@ -1,0 +1,3 @@
+function doEverything() {
+    // everything
+}

@@ -1,3 +1,0 @@
-function doTheRest() {
-    // everyting else
-}
